@@ -1,4 +1,4 @@
-# Google ADK Sample
+# Google Agent Development Kit Sample
 
 This is a sample project that demonstrates how to use the Google ADK to build an agent.
 
